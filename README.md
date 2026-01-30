@@ -8,6 +8,10 @@ The goal of this project is to transform raw ERP and CRM data into a **business-
 
 ## 🏗️ Data Architecture
 
+### 📐 Architecture Diagram
+![Data Architecture](docs/data_architecture.png)
+
+
 The project follows the **Medallion Architecture**:
 
 ### 🟤 Bronze Layer
@@ -47,6 +51,66 @@ The project follows the **Medallion Architecture**:
 ---
 
 ## 📂 Repository Structure
+
+
+sql-data-warehouse-project/
+│
+├── datasets/
+│ └── raw ERP and CRM CSV files
+│
+├── docs/
+│ ├── etl.drawio # ETL techniques and workflows
+│ ├── data_architecture.drawio # Overall architecture
+│ ├── data_flow.drawio # Data flow diagram
+│ ├── data_models.drawio # Star schema models
+│ ├── data_catalog.md # Dataset descriptions & metadata
+│ └── naming-conventions.md # Naming standards
+│
+├── scripts/
+│ ├── bronze/ # Raw data ingestion scripts
+│ ├── silver/ # Data cleaning & transformation
+│ └── gold/ # Analytical models
+│
+├── tests/ # Data quality checks
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+└── requirements.txt
+
+
+---
+
+## 📊 Analytics & Insights
+
+SQL-based analytics are created to analyze:
+
+- Customer behavior
+- Product performance
+- Sales trends
+
+These insights enable stakeholders to make **data-driven decisions**.
+
+---
+
+## 🧠 Skills Demonstrated
+
+- SQL Development
+- Data Warehousing
+- ETL Pipeline Design
+- Data Modeling (Star Schema)
+- Data Analysis & Reporting
+
+
+---
+
+
+## 👤 About Me
+
+Hi, I’m **Rupan raj** 👋  
+An aspiring **Data Engineer / Data Analyst** with hands-on experience in SQL, data warehousing, and analytics projects.
+
+🔗 GitHub: https://github.com/RahulRupan
 
 
 
