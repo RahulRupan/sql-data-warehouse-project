@@ -99,38 +99,6 @@ For more details, refer to `docs/requirements.md`.
 ---
 
 
-# Data Warehouse Project
-
-## 📁 Repository Structure
-```text
-data-warehouse-project/
-│
-├── datasets/                # Raw datasets (ERP and CRM CSV files)
-├── docs/                    # Architecture & Documentation
-│   ├── images/              # Exported SVG/PNG images for display
-│   ├── etl.drawio           # Editable ETL methods diagram
-│   ├── data_architecture.drawio
-│   ├── data_catalog.md
-│   └── naming-conventions.md
-├── scripts/                 # SQL & Transformation scripts
-│   ├── bronze/              # Raw data ingestion
-│   ├── silver/              # Cleaning & Normalization
-│   └── gold/                # Star Schema & Analytics
-├── tests/                   # Data quality & SQL tests
-├── README.md                # Project overview
-└── requirements.txt         # Dependencies
-
-
-
-
----
-
-## 🌟 About Me
-
-Hi! I’m **Rahul** 👋  
-An aspiring **Data Engineer / Data Analyst** with hands-on experience in SQL, data warehousing, and analytics.
-
-🔗 GitHub: https://github.com/RahulRupan
 
 
 
@@ -148,6 +116,7 @@ Hi! I’m **Rahul** 👋
 An aspiring **Data Engineer / Data Analyst** with hands-on experience in SQL, data warehousing, and analytics.
 
 🔗 GitHub: https://github.com/RahulRupan
+
 
 
 
