@@ -26,7 +26,7 @@ The data architecture for this project follows the **Medallion Architecture** us
 ### 📐 Architecture Diagram
 ![Data Architecture](docs/data_architecture.png)
 
-> Export your `data_architecture.drawio` as PNG and place it in the `docs/` folder.
+![Data Warehouse Architecture](images/architecture.svg)
 
 ---
 
