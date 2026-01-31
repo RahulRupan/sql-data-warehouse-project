@@ -134,6 +134,24 @@ An aspiring **Data Engineer / Data Analyst** with hands-on experience in SQL, da
 
 
 
+---
+
+## 🛡️ License
+
+This project is licensed under the **MIT License**.
+
+---
+
+## 🌟 About Me
+
+Hi! I’m **Rahul** 👋  
+An aspiring **Data Engineer / Data Analyst** with hands-on experience in SQL, data warehousing, and analytics.
+
+🔗 GitHub: https://github.com/RahulRupan
+
+
+
+
 
 
 
