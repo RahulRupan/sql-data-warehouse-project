@@ -98,9 +98,27 @@ For more details, refer to `docs/requirements.md`.
 
 ---
 
-## 📂 Repository Structure
 
-![Data Architecture](image.png)
+# Data Warehouse Project
+
+## 📁 Repository Structure
+```text
+data-warehouse-project/
+│
+├── datasets/                # Raw datasets (ERP and CRM CSV files)
+├── docs/                    # Architecture & Documentation
+│   ├── images/              # Exported SVG/PNG images for display
+│   ├── etl.drawio           # Editable ETL methods diagram
+│   ├── data_architecture.drawio
+│   ├── data_catalog.md
+│   └── naming-conventions.md
+├── scripts/                 # SQL & Transformation scripts
+│   ├── bronze/              # Raw data ingestion
+│   ├── silver/              # Cleaning & Normalization
+│   └── gold/                # Star Schema & Analytics
+├── tests/                   # Data quality & SQL tests
+├── README.md                # Project overview
+└── requirements.txt         # Dependencies
 
 
 
