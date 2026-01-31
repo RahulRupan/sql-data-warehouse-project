@@ -144,7 +144,12 @@ data-warehouse-project/
 
 ---
 
-
+data-warehouse-project/
+├── 📂 datasets/ (Raw ERP/CRM)
+├── 📂 docs/ (Architecture, Data Flow, Star Schema)
+├── 📂 scripts/ (Bronze, Silver, Gold ETL)
+├── 📂 tests/ (Data Quality)
+└── ⚙️ requirements.txt
 
 
 
