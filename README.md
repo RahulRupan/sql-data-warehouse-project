@@ -134,6 +134,21 @@ data-warehouse-project/
 
 
 
+data-warehouse-project/
+├── 📂 datasets/                # Raw CSV/JSON source data (ERP/CRM)
+├── 📂 docs/                    # Technical Architecture & Lineage
+│   ├── 🏛️ data_architecture.drawio # System design & cloud stack
+│   ├── 🌟 data_models.drawio    # Star Schema / ER Diagrams
+│   └── 📋 naming-conventions.md # Enterprise SQL standards
+├── 📂 scripts/                 # Core ETL Logic
+│   ├── 🥉 bronze/              # Extraction and Load scripts
+│   ├── 🥈 silver/              # Data cleaning and joining
+│   └── 🥇 gold/                # Business-ready analytical views
+├── 📂 tests/                   # Data Quality Framework (Great Expectations/PyTest)
+└── ⚙️ requirements.txt         # Environment dependencies
+
+
+
 
 
 
