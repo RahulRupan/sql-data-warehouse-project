@@ -24,10 +24,10 @@ The data architecture for this project follows the **Medallion Architecture** us
 ---
 
 ### 📐 Architecture Diagram
-![Data Architecture](docs/data_architecture.png)
+![Data Architecture](image.png)
 
-![Data Warehouse Architecture](images/architecture.svg)
-image.png
+![image.png](images/architecture.svg)
+
 
 ---
 
