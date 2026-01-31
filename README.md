@@ -122,6 +122,16 @@ data-warehouse-project/
 
 
 
+## 🌟 About Me
+
+Hi! I’m **Rupanraj** 👋  
+An aspiring **Data Engineer / Data Analyst** with hands-on experience in SQL, data warehousing, and analytics.
+
+🔗 GitHub: https://github.com/RahulRupan
+
+
+
+
 
 
 
