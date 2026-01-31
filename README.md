@@ -117,6 +117,9 @@ An aspiring **Data Engineer / Data Analyst** with hands-on experience in SQL, da
 
 🔗 GitHub: https://github.com/RahulRupan
 
+
+
+
 ## 📂 Repository Structure
 
 ```text
@@ -139,7 +142,7 @@ data-warehouse-project/
 ├── ⚙️ requirements.txt         # Environment dependencies
 └── 📜 README.md                # Project overview
 
-'''
+---
 
 
 
