@@ -122,7 +122,7 @@ An aspiring **Data Engineer / Data Analyst** with hands-on experience in SQL, da
 
 ## 📂 Repository Structure
 
-``` text
+`` text
 
 data-warehouse-project/
 ├── 📂 datasets/ (Raw ERP/CRM)
