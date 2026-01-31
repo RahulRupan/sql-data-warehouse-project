@@ -26,7 +26,6 @@ The data architecture for this project follows the **Medallion Architecture** us
 ### 📐 Architecture Diagram
 ![Data Architecture](image.png)
 
-![image.png](images/architecture.svg)
 
 
 ---
