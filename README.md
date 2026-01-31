@@ -135,9 +135,11 @@ data-warehouse-project/
 │   ├── 🥈 silver/              # Data cleaning and joining
 │   └── 🥇 gold/                # Business-ready analytical views
 │
-├── 📂 tests/                   # Data Quality Framework (PyTest/SQL)
+├── 📂 tests/                   # Data Quality Framework 
 ├── ⚙️ requirements.txt         # Environment dependencies
 └── 📜 README.md                # Project overview
+
+'''
 
 
 
