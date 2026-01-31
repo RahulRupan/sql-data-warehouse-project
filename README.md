@@ -103,12 +103,9 @@ For more details, refer to `docs/requirements.md`.
 ## 🏗️ Project Architecture
 Behold the Medallion Architecture (Bronze, Silver, Gold) used in this project:
 
-![Data Architecture](./docs/data_architecture.svg)
+![Data Architecture](image.png)
 
-## 🔄 Data Flow & ETL
-How data moves from CRM/ERP to our Gold layer:
 
-![Data Flow](./docs/data_flow.svg)
 
 
 
