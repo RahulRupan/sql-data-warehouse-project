@@ -119,6 +119,7 @@ An aspiring **Data Engineer / Data Analyst** with hands-on experience in SQL, da
 
 ## 📂 Repository Structure
 
+```text
 data-warehouse-project/
 ├── 📂 datasets/                # Raw CSV/JSON source data (ERP/CRM)
 │
