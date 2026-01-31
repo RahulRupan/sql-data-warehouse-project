@@ -100,7 +100,7 @@ For more details, refer to `docs/requirements.md`.
 
 ## 📂 Repository Structure
 
-data-warehouse-project/(image.png)
+![Data Architecture](image.png)
 
 
 
