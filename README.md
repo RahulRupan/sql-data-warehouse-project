@@ -99,17 +99,6 @@ For more details, refer to `docs/requirements.md`.
 ---
 
 
-
-
-
----
-
-## 🛡️ License
-
-This project is licensed under the **MIT License**.
-
----
-
 ## 🌟 About Me
 
 Hi! I’m **Rahul** 👋  
