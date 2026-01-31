@@ -100,10 +100,7 @@ For more details, refer to `docs/requirements.md`.
 
 ## 📂 Repository Structure
 
-## 🏗️ Project Architecture
-Behold the Medallion Architecture (Bronze, Silver, Gold) used in this project:
-
-![Data Architecture](image.png)
+data-warehouse-project/(image.png)
 
 
 
