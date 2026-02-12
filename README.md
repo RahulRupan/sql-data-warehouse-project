@@ -1,7 +1,7 @@
 # 📊 Data Warehouse and Analytics Project
 
-Welcome to the Data Warehouse and Analytics Project repository! 🚀  
-This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
+Welcome to the  My Data Warehouse and Analytics Project repository! 🚀  
+This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights, it highlights in data engineering and analytics.
 
 ---
 
@@ -99,18 +99,6 @@ For more details, refer to `docs/requirements.md`.
 
 ---
 
-
-## 🌟 About Me
-
-Hi! I’m **Rahul** 👋  
-An aspiring **Data Analyst / Bussiness Analyst** with hands-on experience in SQL, data warehousing, and analytics.
-
-🔗 GitHub: https://github.com/RahulRupan
-
-
----
-
-
 ## 📂 Repository Structure
 
 ``` text
@@ -121,6 +109,17 @@ data-warehouse-project/
 ├── 📂 scripts/ (Bronze, Silver, Gold ETL)
 ├── 📂 tests/ (Data Quality)
 └── ⚙️ requirements.txt
+
+
+
+---
+
+## 🌟 About Me
+Hi! I’m **Rupan** 👋  
+An aspiring **Data Analyst / Bussiness Analyst** with hands-on experience in SQL, data warehousing, and analytics.
+
+🔗 GitHub: https://github.com/RahulRupan
+
 ```
 
 
