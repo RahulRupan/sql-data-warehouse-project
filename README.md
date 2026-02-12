@@ -103,7 +103,7 @@ For more details, refer to `docs/requirements.md`.
 ## 🌟 About Me
 
 Hi! I’m **Rahul** 👋  
-An aspiring **Data Engineer / Data Analyst** with hands-on experience in SQL, data warehousing, and analytics.
+An aspiring **Data Analyst / Bussiness Analyst** with hands-on experience in SQL, data warehousing, and analytics.
 
 🔗 GitHub: https://github.com/RahulRupan
 
