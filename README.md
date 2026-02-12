@@ -123,7 +123,6 @@ An aspiring **Data Analyst / Bussiness Analyst** with hands-on experience in SQL
 
 🔗 GitHub: https://github.com/RahulRupan
 
-```
 
 
 
